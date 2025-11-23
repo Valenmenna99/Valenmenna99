@@ -10,7 +10,7 @@ Soy bioquímica en transición hacia el análisis de datos, apasionada por conve
 | Habilidad | Herramientas |
 |-----------|-------------|
 | Pensamiento analítico + resolución de problemas | Python (pandas, numpy) |
-| Consultas & gestión de datos | SQL (MySQL, PostgreSQL), GoogleCloude (BigQuery), Power Query |
+| Consultas & gestión de datos | SQL (MySQL, PostgreSQL) · GoogleCloude (BigQuery) · Power Query |
 | Visualización de datos & storytelling | Power BI · Lookerstudio · Matplotlib · Seaborn |
 | Diseño & presentación | Figma · Canva · Power Point |
 | Trabajo colaborativo · comunicación efectiva | Git & GitHub · Tableros de proyecto |
