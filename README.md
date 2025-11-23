@@ -16,7 +16,7 @@ Soy bioquímica en transición hacia el análisis de datos, apasionada por conve
 | Trabajo colaborativo · comunicación efectiva | Git & GitHub · Trello |
 | Ciencia aplicada a la vida real | Excel avanzado · R básico |
 
-###🗣️ Idiomas: Español (Nativo), Inglés (B1)
+**Idiomas:** Español (Nativo), Inglés (B1), Alemán (B1)
 ---
 
 ## Mi objetivo profesional
