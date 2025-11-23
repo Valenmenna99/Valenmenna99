@@ -40,8 +40,11 @@ Aspiro a ser un puente entre la ciencia y los negocios, aportando valor en proye
 - Dashboard de expansión para BIOGENESYS
 - Visualización de ventas en Power BI | AWC
 - Base de datos relacional para Fast Food
+- TrueShot - Predicción NBA (En equipo)
+Rol: Data Analyst y BI Developer
+Objetivo: Desarrollar un modelo de Machine Learning (Regresión Logística) para predecir victorias en la NBA y reducir la incertidumbre en apuestas.
+Tech: Python, BigQuery, Looker Studio.
+Resultado: Se crearon features propietarias (como el impacto del arbitraje y lesiones) para alimentar un dashboard con KPIs avanzados como el Net Rating.
 
-
-(Próximamente subiré repositorios 😉
 
 > “Los datos cuentan historias, mi misión es hacerlas visibles y accionables."
